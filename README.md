@@ -52,9 +52,9 @@ The slides from Day 1 are available [here](href="https://www.dropbox.com/s/o8jic
 
 ### Class materials
 
-* [In-class practice](https://github.com/thmosqueiro/MachineLearning_CollW/blob/master/Day_1/DecisionTreePractice.pdf) for Decision Trees and Random Forests.
-* [Click here](./Data_Practice_DecisionTrees.dat) to download the data used in the Decision Tree practice.
-* [Jupyter Notebook](http://nbviewer.jupyter.org/github/thmosqueiro/MachineLearning_CollW/blob/master/materials/day_1/My%20First%20Notebook.ipynb) of the first day.
+* [In-class practice](./materials/day_1/DecisionTreePractice.pdf) for Decision Trees and Random Forests.
+* [Click here](./materials/day_1/Data_Practice_DecisionTrees.dat) to download the data used in the Decision Tree practice.
+* [Jupyter Notebook](./materials/day_1/My%20First%20Notebook.ipynb) of the first day.
 * You can find [here](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-017-01741-8/MediaObjects/41467_2017_1741_MOESM4_ESM.mp4) the video from slide 82.
 
 
