@@ -20,20 +20,20 @@ This is the homepage for the Collaboratory Workshop, Machine Learning with Pytho
 
 ## Workshop description
 
-In this workshop, we explore applications of Machine Learning to analyze biological data without the need of advanced programming skills. For example, Machine Learning techniques can be used to construct predictive models based on a set of training examples, to remove noise and spurious artifacts from data (e.g. photobleaching), or to help visualize trends within high dimensional datasets, etc. This workshop will cover the basic principles involved in the applications mentioned above, such as pattern recognition, linear and non-linear regression and cluster analysis. The workshop will be oriented towards hands-on activities, starting from the basics of how to load and prepare biological datasets in a Python environment. By the end of this workshop, students will be able to use Scikit-Learn’s documentation (and other libraries) to build models based on their own data, assess their performance and make new predictions. Students are encouraged to attend to the Advanced Python and Modern Statistics workshops, although no advanced knowledge will be assumed.
+In this workshop, we explore applications of Machine Learning to analyze biological data without the need of advanced programming skills. For example, Machine Learning techniques can be used to construct predictive models based on a set of training examples, to remove noise and spurious artifacts from data (e.g. photobleaching), or to help visualize trends within high dimensional datasets, etc. This workshop will cover the basic principles involved in the applications mentioned above, such as pattern recognition, linear and non-linear regression and cluster analysis. The workshop will be oriented towards hands-on activities, starting from the basics of how to load and prepare biological datasets in a Python environment. By the end of this workshop, students will be able to use Scikit-Learn’s documentation (and other libraries) to build models based on their own data, assess their performance and make new predictions.
+
+Students are encouraged to attend to the Advanced Python and Modern Statistics workshops, although no advanced knowledge will be assumed.
 
 
 #### Technical requirements
 
-Attendees should have a working copy of Python 3 with the following packages:
-
-* Python (2.\* or 3.\*)
+Attendees should have a working copy of Python 2 or 3 with the following packages:
 * Numpy
 * Matplotlib
 * Scikit-Learn
 * Jupyter Notebooks
 
-**Pro Tip:** regardless of your operating system, you can install [Continuum Analytics's Anaconda](https://www.anaconda.com/download) and all of the above requirements will be met. This is **highly recommended** if you are not an experienced user.
+**Pro Tip:** regardless of your operating system, you can install [Continuum Analytics's Anaconda](https://www.anaconda.com/download) and all of the above requirements will be met. The installation process usually takes a few minutes. This is **highly recommended** if you are not an experienced user.
 
 
 
@@ -51,11 +51,8 @@ The slides from Day 1 are available [here](href="https://www.dropbox.com/s/o8jic
 #### Class materials
 
 * [In-class practice](https://github.com/thmosqueiro/MachineLearning_CollW/blob/master/Day_1/DecisionTreePractice.pdf) for Decision Trees and Random Forests.
-
 * [Click here](./Data_Practice_DecisionTrees.dat) to download the data used in the Decision Tree practice.
-
 * [Jupyter Notebook](http://nbviewer.jupyter.org/github/thmosqueiro/MachineLearning_CollW/blob/master/Day_1/My%20First%20Notebook.ipynb) of the first day.
-
 * You can find [here](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-017-01741-8/MediaObjects/41467_2017_1741_MOESM4_ESM.mp4) the video from slide 82.
 
 
@@ -123,6 +120,9 @@ If you want to learn more about object orientation in Python, you can find below
 
 Slides from this class are available [here](https://www.dropbox.com/s/4q1pk2c4xmgd257/MachineLearning_Python_Collaboratory_day2.pdf?dl=0).
 
+<a href="https://www.dropbox.com/s/4q1pk2c4xmgd257/MachineLearning_Python_Collaboratory_day2.pdf?dl=0"><img src="./materials/day_2/day2_thumbnail.png" width=300px /></a>
+
+
 #### Class materials
 
 * [Click here](./Day2_testdataset.zip) for the dataset explored on Day 1.
@@ -145,11 +145,11 @@ Slides from this class are available [here](https://www.dropbox.com/s/4q1pk2c4xm
 
 The slides from Day 3 are available [here](https://www.dropbox.com/s/szmxeqclhgcjwq5/MachineLearning_Python_Collaboratory_day3.pdf?dl=0).
 
+<a href="https://www.dropbox.com/s/szmxeqclhgcjwq5/MachineLearning_Python_Collaboratory_day3.pdf?dl=0"><img src="./materials/day_3/day3_thumbnail.png" width=300px /></a>
 
 #### Class materials</b></u></p>
 
 * [Click here](./Regression_Exercise_dataset.dat) for the dataset used with regression.
-
 * [Jupyter Notebook](http://nbviewer.jupyter.org/github/thmosqueiro/MachineLearning_CollW/blob/master/Day 3/Pratice_Day_3.ipynb) with the code from day 3
 
 
