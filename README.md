@@ -42,7 +42,7 @@ Attendees should have a working copy of Python 2 or 3 with the following package
 <br />
 
 <a name="day1" ></a>
-## Day 1 - Introduction, Python review and Jupyter notebooks</h2>
+## Day 1 - Introduction, Python review and Jupyter notebooks
 
 The slides from Day 1 are available [here](href="https://www.dropbox.com/s/o8jiciq3ps2nh47/MachineLearning_Python_Collaboratory_day1.pdf?dl=0).
 
@@ -51,7 +51,7 @@ The slides from Day 1 are available [here](href="https://www.dropbox.com/s/o8jic
 ### Class materials
 
 * [In-class practice](./materials/day_1/DecisionTreePractice.pdf) for Decision Trees and Random Forests.
-* [Click here](./materials/day_1/Data_Practice_DecisionTrees.zip) to download the data used in the Decision Tree practice.
+* [Click here](https://github.com/QCB-Collaboratory/W17.MachineLearning/raw/master/materials/day_1/Data_Practice_DecisionTrees.dat.zip) to download the data used in the Decision Tree practice.
 * [Jupyter Notebook](./materials/day_1/My%20First%20Notebook.ipynb) of the first day.
 * You can find [here](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-017-01741-8/MediaObjects/41467_2017_1741_MOESM4_ESM.mp4) the video from slide 82.
 
@@ -125,8 +125,8 @@ Slides from this class are available [here](https://www.dropbox.com/s/4q1pk2c4xm
 
 ### Class materials
 
-* [Click here](./Day2_testdataset.zip) for the dataset explored on Day 1.
-* [Click here](./banana_dataset.csv) for the banana dataset.
+* [Click here](https://github.com/QCB-Collaboratory/W17.MachineLearning/raw/master/materials/day_2/Day2_testdataset.zip) for the dataset explored on Day 1.
+* [Click here](./materials/day_2/banana_dataset.csv) for the banana dataset.
 * [Jupyter Notebook](http://nbviewer.jupyter.org/github/thmosqueiro/MachineLearning_CollW/blob/master/materials/day_2/Practice_Day_2.ipynb) with the code from day 2
 
 
@@ -147,9 +147,9 @@ The slides from Day 3 are available [here](https://www.dropbox.com/s/szmxeqclhgc
 
 <a href="https://www.dropbox.com/s/szmxeqclhgcjwq5/MachineLearning_Python_Collaboratory_day3.pdf?dl=0"><img src="./materials/day_3/day3_thumbnail.png" width=300px /></a>
 
-### Class materials</b></u></p>
+### Class materials
 
-* [Click here](./Regression_Exercise_dataset.dat) for the dataset used with regression.
+* [Click here](https://github.com/QCB-Collaboratory/W17.MachineLearning/raw/master/materials/day_2/Day2_testdataset.zip) for the dataset used with regression.
 * [Jupyter Notebook](http://nbviewer.jupyter.org/github/thmosqueiro/MachineLearning_CollW/blob/master/materials/day_3/Pratice_Day_3.ipynb) with the code from day 3
 
 
