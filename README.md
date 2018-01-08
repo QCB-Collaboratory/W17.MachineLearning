@@ -17,6 +17,7 @@ This is the homepage for the Collaboratory Workshop, Machine Learning with Pytho
 
 * [Contact us!](./README.md#contact)
 
+* [Material's license](./README.md#Material's license)
 
 <br />
 
@@ -178,6 +179,7 @@ Here are some resources to keep you advancing your studies and find everything y
 * [How does gene expression clustering work?](https://www.nature.com/articles/nbt1205-1499), by P. D'haeseleer
 
 
+<br />
 
 ## Contact
 
@@ -188,3 +190,28 @@ There are several ways you can contact us:
 * You can [contact me, Thiago, directly](http://thmosqueiro.vandroiy.com/contact).
 
 * You can [contact the Collaboratory](https://qcb.ucla.edu/collaboratory/) for more information on the services available and other workshops.
+
+
+<br />
+
+## Material's license
+
+This material is shared under the [GNU General Public License v3.0](https://github.com/QCB-Collaboratory/W17.MachineLearning/blob/master/LICENSE), please take a moment to read it. Permissions of this copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+
+```
+Workshop - Machine Learning with Python
+Copyright (C) 2017  Thiago Schiavo Mosqueiro
+
+This material is a free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <http://www.gnu.org/licenses/>.
+```
