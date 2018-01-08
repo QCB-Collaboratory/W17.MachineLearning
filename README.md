@@ -7,17 +7,18 @@ This is the homepage for the Collaboratory Workshop, Machine Learning with Pytho
 
 * [Workshop description](./README.md#workshop-description)
 
-* [Day 1](./README.md#day1) - Jupyter and Machine Learning
+* [Day 1](./README.md#day-1---introduction-python-review-and-jupyter-notebooks) - Jupyter and Machine Learning
 
-* [Day 2](./README.md#day2) - Classification and performance
+* [Day 2](./README.md#day-2---classification-performance-and-cross-validation) - Classification and performance
 
-* [Day 3](./README.md#day3) - Cross-validation and regression
+* [Day 3](./README.md#day-3---regression-and-clustering) - Cross-validation and regression
 
 * [Resources of after the workshop](./README.md#after-the-workshop)
 
 * [Contact us!](./README.md#contact)
 
 * [Material's license](./README.md#materials-license)
+
 
 <br />
 
@@ -27,7 +28,6 @@ In this workshop, we explore applications of Machine Learning to analyze biologi
 
 Students are encouraged to attend to the Advanced Python and Modern Statistics workshops, although no advanced knowledge will be assumed.
 
-
 ### Technical requirements
 
 Attendees should have a working copy of Python 2 or 3 with the following packages:
@@ -36,16 +36,15 @@ Attendees should have a working copy of Python 2 or 3 with the following package
 * Scikit-Learn
 * Jupyter Notebooks
 
-**Pro Tip:** regardless of your operating system, you can install [Continuum Analytics's Anaconda](https://www.anaconda.com/download) and all of the above requirements will be met. The installation process usually takes a few minutes. This is **highly recommended** if you are not an experienced user.
+**ProTip:** regardless of your operating system, you can install [Continuum Analytics's Anaconda](https://www.anaconda.com/download) and all of the above requirements will be met. The installation process usually takes a few minutes. This is **highly recommended** if you are not an experienced user.
 
 
 
 <br />
 
-<a name="day1" ></a>
 ## Day 1 - Introduction, Python review and Jupyter notebooks
 
-The slides from Day 1 are available [here](href="https://www.dropbox.com/s/o8jiciq3ps2nh47/MachineLearning_Python_Collaboratory_day1.pdf?dl=0).
+The slides from Day 1 are available [here](https://www.dropbox.com/s/o8jiciq3ps2nh47/MachineLearning_Python_Collaboratory_day1.pdf?dl=0).
 
 <a href="https://www.dropbox.com/s/o8jiciq3ps2nh47/MachineLearning_Python_Collaboratory_day1.pdf?dl=0"><img src="./materials/day_1/day1_thumbnailr.png" width=300px /></a>
 
@@ -72,7 +71,6 @@ Genomics and NGA
 * [Clustering methods applied to TCGA Ovarian Cancer Coexpression Matrix](https://github.com/ucsd-ccbb/jupyter-genomics/blob/master/notebooks/networkAnalysis/TCGA_clustering_OV/TCGA_clustering_OV.ipynb), by Brin Rosenthal
 * [5 Analyzing Core Diversity](https://github.com/ucsd-ccbb/jupyter-genomics/blob/master/notebooks/microbiome/5%20Analyzing%20Core%20Diversity/5%20Analyzing%20Core%20Diversity.ipynb), by Amanda Birmingham
 
-
 Cell and molecular biology
 
 * [Autoencoders for calcium fluorescence](https://github.com/codekansas/calcium-gan/blob/master/autoencoder.ipynb), by Benjamin Bolte
@@ -80,12 +78,10 @@ Cell and molecular biology
 * [Analysis of time lapse images of plates with growing colonies](https://github.com/JorgeRV/biosync/blob/master/Colony_size_and_fluo.ipynb), by Jorge Riveros Vergara
 * [Interlab Study](http://nbviewer.jupyter.org/github/thmosqueiro/modeligem/blob/master/notebooks/DataAnalysis/Interlab/Interlab.ipynb) for iGEM 2015, Brazil-USP team.
 
-
 Ecology and evolutionary biology
 
 * [Reverse Ecology of Uncultivated Freshwater Actinobacteria](https://github.com/celawson87/reverseEcology/blob/master/iPythonNotebooks/ReverseEcologyOLD.ipynb), by Joshua Hamilton
 * [Example of feature extraction from images](https://github.com/bw4sz/ComputerVisionEcology/blob/master/Measurement.ipynb), by Ben Weinstein
-
 
 Data visualization
 
@@ -103,8 +99,6 @@ Generic data analysis and introductory notebooks
 * [Example of Machine Learning](http://nbviewer.jupyter.org/github/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) with the Iris dataset.
 
 
-<br />
-
 ### More about object orientation
 
 If you want to learn more about object orientation in Python, you can find below some resources to help you getting started.
@@ -116,7 +110,6 @@ If you want to learn more about object orientation in Python, you can find below
 
 <br />
 
-<a name="day2" ></a>
 ## Day 2 - Classification, performance and cross-validation
 
 Slides from this class are available [here](https://www.dropbox.com/s/4q1pk2c4xmgd257/MachineLearning_Python_Collaboratory_day2.pdf?dl=0).
@@ -141,7 +134,6 @@ Slides from this class are available [here](https://www.dropbox.com/s/4q1pk2c4xm
 
 <br />
 
-<a name="day3" ></a>
 ## Day 3 - Regression and clustering
 
 The slides from Day 3 are available [here](https://www.dropbox.com/s/szmxeqclhgcjwq5/MachineLearning_Python_Collaboratory_day3.pdf?dl=0).
@@ -156,7 +148,6 @@ The slides from Day 3 are available [here](https://www.dropbox.com/s/szmxeqclhgc
 
 <br />
 
-<a name="after-the-workshop" ></a>
 ## After the workshop
 
 Here are some resources to keep you advancing your studies and find everything you need to apply Machine Learning by yourself in your research. If you find anything interesting and would like to add to the list below, [please leave us a message](./README.md#contact)!
