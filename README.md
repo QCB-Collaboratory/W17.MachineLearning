@@ -3,7 +3,9 @@
 
 This is the homepage for the Collaboratory Workshop, Machine Learning with Python (November 2017). I will be updating this website after the workshop is finished to fix any problems we may have found in the slides, and post the videos of each the three days. This workshop is offered by the [QCBio Collaboratory](https://qcb.ucla.edu/collaboratory/workshops/machinelearning/) (UCLA).
 
-#### Table of contents
+### Table of contents
+
+* [Workshop description](./README.md#workshop-description)
 
 * [Day 1](./README.md#day1) - Jupyter and Machine Learning
 
@@ -25,7 +27,7 @@ In this workshop, we explore applications of Machine Learning to analyze biologi
 Students are encouraged to attend to the Advanced Python and Modern Statistics workshops, although no advanced knowledge will be assumed.
 
 
-#### Technical requirements
+### Technical requirements
 
 Attendees should have a working copy of Python 2 or 3 with the following packages:
 * Numpy
@@ -48,15 +50,15 @@ The slides from Day 1 are available [here](href="https://www.dropbox.com/s/o8jic
 
 <br />
 
-#### Class materials
+### Class materials
 
 * [In-class practice](https://github.com/thmosqueiro/MachineLearning_CollW/blob/master/Day_1/DecisionTreePractice.pdf) for Decision Trees and Random Forests.
 * [Click here](./Data_Practice_DecisionTrees.dat) to download the data used in the Decision Tree practice.
-* [Jupyter Notebook](http://nbviewer.jupyter.org/github/thmosqueiro/MachineLearning_CollW/blob/master/Day_1/My%20First%20Notebook.ipynb) of the first day.
+* [Jupyter Notebook](http://nbviewer.jupyter.org/github/thmosqueiro/MachineLearning_CollW/blob/master/materials/day_1/My%20First%20Notebook.ipynb) of the first day.
 * You can find [here](https://static-content.springer.com/esm/art%3A10.1038%2Fs41467-017-01741-8/MediaObjects/41467_2017_1741_MOESM4_ESM.mp4) the video from slide 82.
 
 
-#### Great examples of Jupyter Notebooks
+### Great examples of Jupyter Notebooks
 
 You will find below a list of great examples of notebooks to use as inspiration for your own work. Because all of these notebooks are publicly available, you can download them and open locally to examine them. If you want even more notebooks, check out this [gallery of notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks#signal-and-sound-processing) provided by the Jupyter project.
 
@@ -104,7 +106,7 @@ Generic data analysis and introductory notebooks
 
 <br />
 
-#### More about object orientation
+### More about object orientation
 
 If you want to learn more about object orientation in Python, you can find below some resources to help you getting started.
 
@@ -123,14 +125,14 @@ Slides from this class are available [here](https://www.dropbox.com/s/4q1pk2c4xm
 <a href="https://www.dropbox.com/s/4q1pk2c4xmgd257/MachineLearning_Python_Collaboratory_day2.pdf?dl=0"><img src="./materials/day_2/day2_thumbnail.png" width=300px /></a>
 
 
-#### Class materials
+### Class materials
 
 * [Click here](./Day2_testdataset.zip) for the dataset explored on Day 1.
 * [Click here](./banana_dataset.csv) for the banana dataset.
-* [Jupyter Notebook](http://nbviewer.jupyter.org/github/thmosqueiro/MachineLearning_CollW/blob/master/Day_2/Practice_Day_2.ipynb) with the code from day 2
+* [Jupyter Notebook](http://nbviewer.jupyter.org/github/thmosqueiro/MachineLearning_CollW/blob/master/materials/day_2/Practice_Day_2.ipynb) with the code from day 2
 
 
-#### Jupyter with other languages
+### Jupyter with other languages
 
 * [Julia language](https://github.com/JuliaLang/IJulia.jl) for jupyter
 * [R language](http://blog.revolutionanalytics.com/2015/09/using-r-with-jupyter-notebooks.html) for jupyter
@@ -147,10 +149,10 @@ The slides from Day 3 are available [here](https://www.dropbox.com/s/szmxeqclhgc
 
 <a href="https://www.dropbox.com/s/szmxeqclhgcjwq5/MachineLearning_Python_Collaboratory_day3.pdf?dl=0"><img src="./materials/day_3/day3_thumbnail.png" width=300px /></a>
 
-#### Class materials</b></u></p>
+### Class materials</b></u></p>
 
 * [Click here](./Regression_Exercise_dataset.dat) for the dataset used with regression.
-* [Jupyter Notebook](http://nbviewer.jupyter.org/github/thmosqueiro/MachineLearning_CollW/blob/master/Day 3/Pratice_Day_3.ipynb) with the code from day 3
+* [Jupyter Notebook](http://nbviewer.jupyter.org/github/thmosqueiro/MachineLearning_CollW/blob/master/materials/day_3/Pratice_Day_3.ipynb) with the code from day 3
 
 
 <br />
@@ -161,7 +163,7 @@ The slides from Day 3 are available [here](https://www.dropbox.com/s/szmxeqclhgc
 Here are some resources to keep you advancing your studies and find everything you need to apply Machine Learning by yourself in your research. If you find anything interesting and would like to add to the list below, [please leave us a message](./README.md#contact)!
 
 
-#### General readings
+### General readings
 
 * Article published on Forbes, [What Is The Future Of Machine Learning In Biology?](https://www.forbes.com/sites/quora/2016/03/28/what-is-the-future-of-machine-learning-in-biology/#6f906cde37bb)
 * [Machine Learning and Its Applications to Biology](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030116), by Tarca et al (Plos Comp Biol)
@@ -170,7 +172,7 @@ Here are some resources to keep you advancing your studies and find everything y
 * [Machine learning applications in cancer prognosis and prediction](http://www.sciencedirect.com/science/article/pii/S2001037014000464), by K. Kourou et al (Comp Struct Biotech J)
 
 
-#### Nature Biotech's primers
+### Nature Biotech's primers
 
 * [What's a support vector machine?](https://www.nature.com/articles/nbt1206-1565), by W. Noble
 * [What are decision trees?](https://www.nature.com/articles/nbt0908-1011), by C. Kingsford and S. Salzberg
