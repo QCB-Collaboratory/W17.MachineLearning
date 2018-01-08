@@ -17,7 +17,7 @@ This is the homepage for the Collaboratory Workshop, Machine Learning with Pytho
 
 * [Contact us!](./README.md#contact)
 
-* [Material's license](./README.md#Material's license)
+* [Material's license](./README.md#materials-license)
 
 <br />
 
