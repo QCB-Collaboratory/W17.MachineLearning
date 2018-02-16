@@ -7,15 +7,15 @@ This is the homepage for the Collaboratory Workshop, Machine Learning with Pytho
 
 * [Workshop description](./README.md#workshop-description)
 
-* [Day 1](./Day1.md) - Jupyter and Machine Learning
+* [Day 1](./wiki/Day-1) - Jupyter and Machine Learning
 
-* [Day 2](./Day2.md) - Classification and performance
+* [Day 2](./wiki/Day-2) - Classification and performance
 
-* [Day 3](./Day3.md) - Cross-validation and regression
+* [Day 3](./wiki/Day-3) - Cross-validation and regression
 
-* [Extra resources for after the workshop](./after.md)
+* [Extra resources for after the workshop](./wiki/Extra-resources-for-after-the-workshop)
 
-* [Technical requirements](./README.md#workshop-description)
+* [Technical requirements](./README.md#technical-requirements)
 
 * [Contact](./README.md#contact)
 
@@ -30,6 +30,7 @@ In this workshop, we explore applications of Machine Learning to analyze biologi
 
 Students are encouraged to attend to the Advanced Python and Modern Statistics workshops, although no advanced knowledge will be assumed.
 
+<br />
 
 ## Technical requirements
 
