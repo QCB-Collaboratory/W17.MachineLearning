@@ -9,7 +9,7 @@ This is the homepage for the Collaboratory Workshop, Machine Learning with Pytho
 
 ### Table of contents
 
-* [Workshop description](./README.md#workshop-description)
+* [Workshop description](https://github.com/QCB-Collaboratory/W17.MachineLearning/wiki#workshop-description)
 
 * [Day 1](https://github.com/QCB-Collaboratory/W17.MachineLearning/wiki/Day-1) - Jupyter and Machine Learning
 
@@ -19,9 +19,9 @@ This is the homepage for the Collaboratory Workshop, Machine Learning with Pytho
 
 * [Extra resources for after the workshop](https://github.com/QCB-Collaboratory/W17.MachineLearning/wiki/Extra-resources-for-after-the-workshop)
 
-* [Technical requirements](./README.md#technical-requirements)
+* [Technical requirements](https://github.com/QCB-Collaboratory/W17.MachineLearning/wiki#technical-requirements)
 
-* [Contact](./README.md#contact)
+* [Contact](https://github.com/QCB-Collaboratory/W17.MachineLearning/wiki#contact)
 
 * [Material's license](./README.md#materials-license)
 
