@@ -1,7 +1,11 @@
 # Machine Learning Workshop
 <img src="materials/qcbCollaboratory_logo.png" width="100" />
 
-This is the homepage for the Collaboratory Workshop, Machine Learning with Python (November 2017). I will be updating this website after the workshop is finished to fix any problems we may have found in the slides, and post the videos of each the three days. This workshop is offered by the [QCBio Collaboratory](https://qcb.ucla.edu/collaboratory/workshops/machinelearning/) (UCLA).
+This is the homepage for the Collaboratory Workshop, Machine Learning with Python. I will be updating this website after the workshop is finished to fix any problems we may have found in the slides, and post the videos of each the three days. This workshop is offered by the [QCBio Collaboratory](https://qcb.ucla.edu/collaboratory/workshops/machinelearning/) (UCLA).
+
+**For complete information about the workshop, please access our [Wiki Page](https://github.com/QCB-Collaboratory/W17.MachineLearning/wiki) or use the table of contents below.**
+
+<br />
 
 ### Table of contents
 
@@ -20,27 +24,6 @@ This is the homepage for the Collaboratory Workshop, Machine Learning with Pytho
 * [Contact](./README.md#contact)
 
 * [Material's license](./README.md#materials-license)
-
-
-<br />
-
-## Workshop description
-
-In this workshop, we explore applications of Machine Learning to analyze biological data without the need of advanced programming skills. For example, Machine Learning techniques can be used to construct predictive models based on a set of training examples, to remove noise and spurious artifacts from data (e.g. photobleaching), or to help visualize trends within high dimensional datasets, etc. This workshop will cover the basic principles involved in the applications mentioned above, such as pattern recognition, linear and non-linear regression and cluster analysis. The workshop will be oriented towards hands-on activities, starting from the basics of how to load and prepare biological datasets in a Python environment. By the end of this workshop, students will be able to use Scikit-Learn’s documentation (and other libraries) to build models based on their own data, assess their performance and make new predictions.
-
-Students are encouraged to attend to the Advanced Python and Modern Statistics workshops, although no advanced knowledge will be assumed.
-
-<br />
-
-## Technical requirements
-
-Attendees should have a working copy of Python 2 or 3 with the following packages:
-* Numpy
-* Matplotlib
-* Scikit-Learn
-* Jupyter Notebooks
-
-**ProTip:** regardless of your operating system, you can install [Continuum Analytics's Anaconda](https://www.anaconda.com/download) and all of the above requirements will be met. The installation process usually takes a few minutes. This is **highly recommended** if you are not an experienced user.
 
 
 <br />
