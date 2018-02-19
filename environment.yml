@@ -1,0 +1,6 @@
+name: 
+
+dependencies:
+  - matplotlib
+  - numpy
+  - scikit-learn
