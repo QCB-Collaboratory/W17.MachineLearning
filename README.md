@@ -1,8 +1,9 @@
 # Machine Learning Workshop
 <img src="materials/qcbCollaboratory_logo.png" width="100" />
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/QCB-Collaboratory/W17.MachineLearning/master)
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
 <img src="https://img.shields.io/badge/Python-_2.7,_3.*-brightgreen.svg">
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/QCB-Collaboratory/W17.MachineLearning/master)
 
 This is the homepage for the Collaboratory Workshop, Machine Learning with Python. I will be updating this website after the workshop is finished to fix any problems we may have found in the slides, and post the videos of each the three days. This workshop is offered by the [QCBio Collaboratory](https://qcb.ucla.edu/collaboratory/workshops/machinelearning/) (UCLA).
 
