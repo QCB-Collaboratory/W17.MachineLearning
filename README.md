@@ -38,7 +38,7 @@ There are several ways you can contact us:
 
 * You can use the [Issues Page](https://github.com/QCB-Collaboratory/W17.MachineLearning/issues) of this repository to post questions, comments and suggestions. These will be visible to everyone.
 
-* You can [contact me, Thiago, directly](http://thmosqueiro.vandroiy.com/contact).
+* You can [contact me, Renaud, directly](https://dessalles.github.io/).
 
 * Also, check out [the QCBio Collaboratory](https://qcb.ucla.edu/collaboratory/) for more information and other workshops available to the UCLA community.
 
@@ -51,6 +51,7 @@ This material is shared under the [GNU General Public License v3.0](https://gith
 
 ```
 Workshop - Machine Learning with Python
+Copyright (C) 2018  Reanud Dessalles
 Copyright (C) 2017  Thiago Schiavo Mosqueiro
 
 This material is a free software: you can redistribute it and/or modify
