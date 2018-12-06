@@ -2,7 +2,7 @@
 <img src="materials/qcbCollaboratory_logo.png" width="100" />
 
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
-<img src="https://img.shields.io/badge/Python-_2.7,_3.*-brightgreen.svg">
+<img src="https://img.shields.io/badge/Python-_3.*-brightgreen.svg">
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/QCB-Collaboratory/W17.MachineLearning/master)
 
 This is the homepage for the Collaboratory Workshop, Machine Learning with Python. I will be updating this website after the workshop is finished to fix any problems we may have found in the slides, and post the videos of each the three days. This workshop is offered by the [QCBio Collaboratory](https://qcb.ucla.edu/collaboratory/workshops/machinelearning/) (UCLA).
@@ -10,6 +10,10 @@ This is the homepage for the Collaboratory Workshop, Machine Learning with Pytho
 **For complete information about the workshop, please access our [Wiki Page](https://github.com/QCB-Collaboratory/W17.MachineLearning/wiki) or use the table of contents below.**
 
 <br />
+
+### Software needed
+
+Prior the beginning of the course, you need to install the Anaconda distribution that contains Python and all the libraries needed for the workshop. You can find help to the installation by reviewing [these slides](https://drive.google.com/open?id=1b8Tevu5R5cm2qobXwy1kcH73Kzt7MhMm).
 
 ### Table of contents
 
